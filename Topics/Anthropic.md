@@ -1,0 +1,19 @@
+# What are the evidence that Anthropic uses copyrighted books to train their LLM?
+
+Generated Date: September 11, 2025 at 03:15 PM
+
+### Anthropic's Use of Copyrighted Books in AI Training Sparks Landmark Legal Battle and $1.5 Billion Settlement
+
+Evidence has emerged, primarily through a significant class-action lawsuit, that Anthropic, the developer of the AI model Claude, has used a substantial number of copyrighted books to train its large language models (LLMs). This practice has led to a high-stakes legal confrontation with authors and publishers, culminating in a proposed $1.5 billion settlement that could set a precedent for the burgeoning AI industry.
+
+The core of the evidence stems from a lawsuit filed by a class of authors and publishers who alleged that Anthropic engaged in widespread copyright infringement. The plaintiffs asserted that the company downloaded and utilized millions of books from illicit online repositories, including the pirate websites Library Genesis (LibGen) and Pirate Library Mirror, to build the training datasets for its AI models.
+
+In a pivotal ruling in June 2025, a federal judge delivered a nuanced decision. The court found that the act of training an AI model on copyrighted books could fall under the legal doctrine of "fair use," provided the materials were lawfully acquired. However, the judge unequivocally ruled that Anthropic's use of books obtained from pirate sources did not constitute fair use. This decision marked a significant, albeit partial, victory for the plaintiffs and set the stage for a trial.
+
+Faced with the prospect of a costly legal battle and potentially crippling statutory damages, Anthropic entered into settlement negotiations. In a landmark agreement, the company consented to pay $1.5 billion to a fund that will compensate the authors and publishers of the pirated books. As part of the settlement, which is still pending final court approval, Anthropic also agreed to destroy the digital copies of the books it had downloaded from the illicit sources.
+
+While the settlement addresses the use of pirated materials, the court's initial ruling also shed light on Anthropic's other methods for acquiring training data. The company has reportedly been purchasing and scanning physical books to create its own digital library for training purposes. The court deemed this practice of acquiring and digitizing legally obtained books to be a form of fair use.
+
+Anthropic's public statements regarding its training data have been general. The company's transparency reports indicate that its models are trained on a "proprietary mix of publicly available information on the Internet as of March 2025, as well as non-public data from third parties," and data from users who have explicitly opted to contribute their conversations for training purposes.
+
+The legal proceedings and the subsequent settlement have brought to the forefront the complex and often contentious intersection of copyright law and artificial intelligence. While the court has offered some initial guidance, the legal landscape surrounding the use of copyrighted materials in training AI models remains a gray area. The distinction between lawfully and unlawfully acquired training data is likely to be a central issue in future litigation. The "transformative use" argument, which posits that using copyrighted works to train an AI is fundamentally different from simple reproduction, will continue to be a key defense for AI companies. However, the source and legality of that data will be a critical factor in determining the viability of such claims. This landmark case against Anthropic has undoubtedly set a significant, though not yet fully clarified, precedent for how these issues will be navigated in the future.
