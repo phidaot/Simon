@@ -1,6 +1,6 @@
 # Ready Player One must have had a lot of licensing fees.
 
-Generated Date: September 11, 2025 at 02:57 PM
+Generated on September 11, 2025 at 02:57 PM
 
 ## The Legal Gauntlet of "Ready Player One": A Lawyer's Perspective on a Licensing Juggernaut
 

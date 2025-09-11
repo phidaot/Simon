@@ -1,6 +1,6 @@
 # What legal actions have been taken against LibGen?
 
-Generated Date: September 11, 2025 at 03:25 PM
+Generated on September 11, 2025 at 03:25 PM
 
 ## Legal Onslaught: Publishers vs. Library Genesis
 

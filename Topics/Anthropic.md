@@ -1,6 +1,6 @@
 # What are the evidence that Anthropic uses copyrighted books to train their LLM?
 
-Generated Date: September 11, 2025 at 03:15 PM
+Generated on September 11, 2025 at 03:15 PM
 
 ### Anthropic's Use of Copyrighted Books in AI Training Sparks Landmark Legal Battle and $1.5 Billion Settlement
 

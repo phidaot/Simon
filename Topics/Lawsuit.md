@@ -1,6 +1,6 @@
 # What is a landmark class-action lawsuit?
 
-Generated Date: September 11, 2025 at 03:00 PM
+Generated on September 11, 2025 at 03:00 PM
 
 ## Landmark Class-Action Lawsuits: A Force for Sweeping Legal and Social Change
 

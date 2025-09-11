@@ -1,6 +1,6 @@
 # Is revealing a spoiler considered a copyright infringement?
 
-Generated date: September 11, 2025 at 03:33 PM
+Generated on September 11, 2025 at 03:33 PM
 
 ### Direct Answer
 
